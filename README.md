@@ -46,3 +46,12 @@ Movie Duration Analysis: Histogram of movie durations.
 
 Duration Comparison: Box and whisker plot comparing durations of Movies and TV Shows.
 
+
+<img width="1280" alt="Screenshot 2025-05-14 at 9 03 26 PM" src="https://github.com/user-attachments/assets/02b964b4-8ff0-460e-aa14-c1356e32f71e" />
+
+
+<img width="1280" alt="Screenshot 2025-05-14 at 9 03 08 PM" src="https://github.com/user-attachments/assets/52d6ef83-0a58-421f-b7e6-86d40b912f40" />
+<img width="1280" alt="Screenshot 2025-05-14 at 9 03 08 PM" src="https://github.com/user-attachments/assets/5d278032-eefd-4580-a748-a6d9fb44de85" />
+
+
+
